@@ -1,0 +1,1 @@
+{"ast":null,"code":"let nextId = 1;\nexport class Hero {\n  constructor(name, power) {\n    this.name = name;\n    this.power = power;\n    this.id = nextId++;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
